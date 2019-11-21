@@ -1,0 +1,9 @@
+# Use Python/Perl regexp
+syntax: regexp
+
+BUILD/
+COMPONENT_MBEDBL_UCP/
+drivers/storage/COMPONENT_NUSD/
+mbed-os/
+NuMaker-mbed-Aliyun-IoTKit/
+^\.mbed$
